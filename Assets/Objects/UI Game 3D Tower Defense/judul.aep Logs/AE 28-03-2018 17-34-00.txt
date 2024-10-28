@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “judul.aep”
+
+Rendering started on 28/03/2018 at 17:34:00
+
+  28/03/2018 17:34:00: Starting composition “goblock”.
+
+  Output To: C:\Users\fajarnadril\Desktop\UI Game 3D Tower Defense\judul sequence\goblock\goblock_[#####].jpg    28/03/2018 17:35:12: Finished composition “goblock”.
+
+
+  Total Time Elapsed: 1 Min, 12 Sec
+Log closed on 28/03/2018 at 17:35:12
+
