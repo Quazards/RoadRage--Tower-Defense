@@ -43,9 +43,9 @@ RoadRage: Tower Defense is a tower defense game where the main goal is to surviv
 
 ## How To Play
 - Movement: W, A, S, D
-- Zoom in/out: Mouse Scroll Wheel
-- Buy Turrets: Right Click On The Turret Image
-- Place Turret: Right Click On Any Unnocuppied Ground Tile After Buying Turret
+- Zoom in/out: Mouse S\scroll wheel
+- Buy Turrets: Right click on the turret image
+- Place Turret: Right click on any unnocuppied ground tile after buying turret
 
   
 <br>
