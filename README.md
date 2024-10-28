@@ -3,12 +3,11 @@
 </p>
 
 ## RoadRage: Tower Defense
-<br>
-
-## Description
 Genre: Tower Defense
 RoadRage: Tower Defense is a tower defense game where the main goal is to survive the oncoming waves of cars. The player can fight off the cars by placing turrets on the ground that will shoot any cars in sight.
 <br>
+
+
 
 ##  📜Scripts and Features
 
@@ -24,6 +23,8 @@ RoadRage: Tower Defense is a tower defense game where the main goal is to surviv
 | `Turret.cs`  | Handles the turret's targeting logic and stats |
 | `etc`  | |
 <br>
+
+
 
 
 ## 📋 Project Info
