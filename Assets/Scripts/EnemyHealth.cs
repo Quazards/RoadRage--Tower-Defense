@@ -23,7 +23,7 @@ public class EnemyHealth : MonoBehaviour
             int damage = other.GetComponent<Bullet>().bulletDamage;
 
             TakeDamage(damage);
-            //StartCoroutine(flashRed());
+            StartCoroutine(flashRed());
         }
     }
 

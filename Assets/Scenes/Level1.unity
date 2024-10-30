@@ -137,7 +137,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -281,7 +281,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (30)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -427,7 +427,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -593,7 +593,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (24)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -778,7 +778,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_Name
-      value: kandang (5)
+      value: WoodHouse
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -867,7 +867,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (1)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -995,7 +995,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -1236,7 +1236,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -1293,7 +1293,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (3)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -1359,7 +1359,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (5)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -1426,7 +1426,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_Name
-      value: atap (1)
+      value: WoodRoof
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_RootOrder
@@ -1505,7 +1505,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (59)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -1677,7 +1677,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (13)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -1916,7 +1916,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -1973,7 +1973,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_Name
-      value: kandang (4)
+      value: WoodHouse
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2144,7 +2144,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -2211,7 +2211,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -2341,19 +2341,19 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 1799778423}
+    m_TransformParent: {fileID: 1369430663}
     m_Modifications:
     - target: {fileID: 100002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_Name
-      value: pohon (3)
+      value: Tree
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_RootOrder
-      value: 19
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.18068728
+      value: 0.18068726
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalScale.y
@@ -2361,19 +2361,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.18068728
+      value: 0.18068726
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.757747
+      value: 11.361415
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.3479614
+      value: -22.05972
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -39.688473
+      value: 10.039993
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2410,7 +2410,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (41)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -2560,7 +2560,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (21)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -2622,7 +2622,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (1)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -2693,7 +2693,7 @@ GameObject:
   m_Component:
   - component: {fileID: 136272504}
   m_Layer: 0
-  m_Name: kandang
+  m_Name: Houses
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2729,7 +2729,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (21)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -2806,7 +2806,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (15)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -2868,7 +2868,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -2930,7 +2930,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (65)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -3122,7 +3122,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -3183,7 +3183,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: daeabba6e7f642b4e92097ce48b232c5, type: 3}
       propertyPath: m_Name
-      value: tapak6 sungai (6)
+      value: River1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: daeabba6e7f642b4e92097ce48b232c5, type: 3}
       propertyPath: m_RootOrder
@@ -3332,7 +3332,7 @@ GameObject:
   m_Component:
   - component: {fileID: 178641330}
   m_Layer: 0
-  m_Name: Baris (12)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3383,7 +3383,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (33)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -3474,7 +3474,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -3537,7 +3537,7 @@ GameObject:
   m_Component:
   - component: {fileID: 183251139}
   m_Layer: 0
-  m_Name: rumputdetail (3)
+  m_Name: GrassPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3575,7 +3575,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 792fa289eedd21b43a416148ada4f229, type: 3}
       propertyPath: m_Name
-      value: goa (2)
+      value: Cave
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 792fa289eedd21b43a416148ada4f229, type: 3}
       propertyPath: m_LocalScale.x
@@ -3680,7 +3680,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (8)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -3738,7 +3738,7 @@ GameObject:
   m_Component:
   - component: {fileID: 189342856}
   m_Layer: 0
-  m_Name: Baris (6)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3779,7 +3779,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (9)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -3841,7 +3841,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -3898,7 +3898,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (7)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -3963,7 +3963,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (5)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -4028,7 +4028,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (21)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4172,7 +4172,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (7)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4234,7 +4234,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (7)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4296,7 +4296,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4353,7 +4353,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4475,7 +4475,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4537,7 +4537,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (21)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4671,7 +4671,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4738,7 +4738,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4800,7 +4800,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4857,7 +4857,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (17)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -4920,7 +4920,7 @@ GameObject:
   m_Component:
   - component: {fileID: 295596804}
   m_Layer: 0
-  m_Name: Baris (10)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4972,7 +4972,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 7ed06ac5e5535dc4a848d2e45aadc9ae, type: 3}
       propertyPath: m_RootOrder
-      value: 22
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 7ed06ac5e5535dc4a848d2e45aadc9ae, type: 3}
       propertyPath: m_LocalScale.x
@@ -5033,7 +5033,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -5090,7 +5090,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (51)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -5171,7 +5171,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (6)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -5233,7 +5233,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -5382,7 +5382,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -5444,7 +5444,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (17)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -5525,7 +5525,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -5587,7 +5587,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_Name
-      value: jalanpapan (2)
+      value: PlankRoad
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_RootOrder
@@ -5648,7 +5648,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (6)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -5705,7 +5705,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (5)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -5829,7 +5829,7 @@ GameObject:
   m_Component:
   - component: {fileID: 339281334}
   m_Layer: 0
-  m_Name: Baris (7)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5880,7 +5880,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (66)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -5975,7 +5975,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (10)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -6104,7 +6104,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (15)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -6228,7 +6228,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (3)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -6289,7 +6289,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -6346,7 +6346,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -6408,7 +6408,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (47)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -6554,7 +6554,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (7)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -6616,7 +6616,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -6666,7 +6666,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (8)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -6746,7 +6746,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (22)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -6819,7 +6819,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (11)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -6884,7 +6884,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -6946,7 +6946,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (6)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -7003,7 +7003,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -7060,7 +7060,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (40)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -7228,7 +7228,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (44)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -7377,7 +7377,7 @@ GameObject:
   m_Component:
   - component: {fileID: 464836108}
   m_Layer: 0
-  m_Name: Baris (11)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7424,7 +7424,7 @@ GameObject:
   m_Component:
   - component: {fileID: 465307913}
   m_Layer: 0
-  m_Name: rumputdetail (4)
+  m_Name: GrassPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7457,7 +7457,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -7514,7 +7514,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -7576,7 +7576,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -7634,7 +7634,6 @@ GameObject:
   m_Component:
   - component: {fileID: 480476286}
   - component: {fileID: 480476289}
-  - component: {fileID: 480476288}
   - component: {fileID: 480476287}
   - component: {fileID: 480476290}
   m_Layer: 5
@@ -7697,18 +7696,6 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: 1
---- !u!114 &480476288
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 480476285}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eef148ddf8075184d941be72afb169ae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!222 &480476289
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7739,7 +7726,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 209cf0a8ae2c5aa41a0e2906e432757a, type: 3}
       propertyPath: m_Name
-      value: jembatan (1)
+      value: Bridge1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 209cf0a8ae2c5aa41a0e2906e432757a, type: 3}
       propertyPath: m_RootOrder
@@ -7805,7 +7792,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (27)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -7887,7 +7874,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (25)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -7960,7 +7947,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 209cf0a8ae2c5aa41a0e2906e432757a, type: 3}
       propertyPath: m_Name
-      value: jembatan (2)
+      value: Bridge1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 209cf0a8ae2c5aa41a0e2906e432757a, type: 3}
       propertyPath: m_RootOrder
@@ -8026,7 +8013,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -8086,7 +8073,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -8148,7 +8135,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (17)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -8205,7 +8192,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -8262,7 +8249,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (50)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -8343,7 +8330,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: daeabba6e7f642b4e92097ce48b232c5, type: 3}
       propertyPath: m_Name
-      value: tapak6 sungai (4)
+      value: River1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: daeabba6e7f642b4e92097ce48b232c5, type: 3}
       propertyPath: m_RootOrder
@@ -8425,7 +8412,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (3)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -8486,7 +8473,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -8548,7 +8535,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -8687,7 +8674,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_Name
-      value: jalanpapan (1)
+      value: PlankRoad
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_RootOrder
@@ -8753,7 +8740,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -8810,7 +8797,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (45)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -8891,7 +8878,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (6)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -8948,7 +8935,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -9011,7 +8998,7 @@ GameObject:
   m_Component:
   - component: {fileID: 585185946}
   m_Layer: 0
-  m_Name: Baris (14)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9144,7 +9131,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 792fa289eedd21b43a416148ada4f229, type: 3}
       propertyPath: m_Name
-      value: goa (1)
+      value: Cave
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 792fa289eedd21b43a416148ada4f229, type: 3}
       propertyPath: m_LocalScale.x
@@ -9254,7 +9241,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -9321,7 +9308,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (63)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -9406,7 +9393,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (57)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -9588,7 +9575,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -9655,7 +9642,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -9814,7 +9801,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (15)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -9946,7 +9933,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (19)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -10019,7 +10006,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -10086,7 +10073,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -10143,7 +10130,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_Name
-      value: jalanpapan (3)
+      value: PlankRoad
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_RootOrder
@@ -10204,7 +10191,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (34)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -10289,7 +10276,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (5)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -10432,7 +10419,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -10576,7 +10563,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -10633,7 +10620,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (64)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -10718,7 +10705,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -10857,7 +10844,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (2)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -10922,7 +10909,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (12)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -11004,7 +10991,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (6)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -11061,7 +11048,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -11123,7 +11110,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_Name
-      value: pohon (1)
+      value: Tree
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_IsActive
@@ -11207,7 +11194,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (5)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -11269,7 +11256,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -11408,7 +11395,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -11466,7 +11453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 746659442}
   m_Layer: 0
-  m_Name: rumputdetail (2)
+  m_Name: GrassPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11586,7 +11573,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -11644,7 +11631,7 @@ GameObject:
   m_Component:
   - component: {fileID: 755773724}
   m_Layer: 0
-  m_Name: Baris (3)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11765,7 +11752,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (10)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -12097,7 +12084,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (20)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -12174,7 +12161,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (60)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -12289,7 +12276,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -12351,7 +12338,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (58)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -12441,7 +12428,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (10)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -12498,7 +12485,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (5)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -12566,7 +12553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 799768751}
   m_Layer: 0
-  m_Name: Baris (9)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12610,7 +12597,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -12672,7 +12659,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (3)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -12736,8 +12723,6 @@ GameObject:
   - component: {fileID: 807752685}
   - component: {fileID: 807752684}
   - component: {fileID: 807752683}
-  - component: {fileID: 807752682}
-  - component: {fileID: 807752687}
   m_Layer: 5
   m_Name: CanvasUI
   m_TagString: Untagged
@@ -12745,18 +12730,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &807752682
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 807752681}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5aa8ac29b3ec5cc4caa41a41d7f5af19, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &807752683
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12839,18 +12812,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &807752687
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 807752681}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a1d21f3e7a2beb848be5f41b37a64c0f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &813764433 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
@@ -12875,7 +12836,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -12932,7 +12893,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (39)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -13013,7 +12974,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -13158,7 +13119,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -13565,7 +13526,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -13709,7 +13670,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -13766,7 +13727,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -13975,7 +13936,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (55)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -14060,7 +14021,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (31)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -14156,7 +14117,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (8)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -14382,7 +14343,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -14520,7 +14481,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -14577,7 +14538,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_Name
-      value: atap (1)
+      value: WoodRoof
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_RootOrder
@@ -14646,7 +14607,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (15)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -14703,7 +14664,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -14760,7 +14721,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -14817,7 +14778,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (17)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -14966,7 +14927,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (11)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15023,7 +14984,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15100,7 +15061,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15157,7 +15118,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (7)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15214,7 +15175,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15333,7 +15294,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (3)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -15403,7 +15364,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15475,7 +15436,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (9)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -15540,7 +15501,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 209cf0a8ae2c5aa41a0e2906e432757a, type: 3}
       propertyPath: m_Name
-      value: jembatan (3)
+      value: Bridge1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 209cf0a8ae2c5aa41a0e2906e432757a, type: 3}
       propertyPath: m_RootOrder
@@ -15601,7 +15562,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (37)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -15687,7 +15648,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15744,7 +15705,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15801,7 +15762,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15863,7 +15824,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15920,7 +15881,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -15977,7 +15938,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_Name
-      value: kandang (2)
+      value: WoodHouse
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16159,7 +16120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1081900294}
   m_Layer: 0
-  m_Name: Baris (1)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16191,7 +16152,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1091675576}
   m_Layer: 0
-  m_Name: Baris
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16250,7 +16211,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (6)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -16396,7 +16357,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -16453,7 +16414,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (10)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -16510,7 +16471,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (10)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -16581,7 +16542,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (10)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -16631,7 +16592,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -16693,7 +16654,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -16750,7 +16711,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -16986,7 +16947,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -17043,7 +17004,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (5)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -17100,7 +17061,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -17355,7 +17316,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (5)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -17413,7 +17374,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1172445232}
   m_Layer: 0
-  m_Name: Baris (13)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17452,7 +17413,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_Name
-      value: kandang (1)
+      value: WoodHouse
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17551,7 +17512,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (2)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -17612,7 +17573,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (6)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -17687,7 +17648,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_Name
-      value: atap (1)
+      value: WoodRoof
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_RootOrder
@@ -17771,7 +17732,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_Name
-      value: jalanpapan (6)
+      value: PlankRoad
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_RootOrder
@@ -17848,7 +17809,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1223857475}
   m_Layer: 0
-  m_Name: Baris (2)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17896,7 +17857,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (16)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -17965,7 +17926,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -18023,7 +17984,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1228265410}
   m_Layer: 0
-  m_Name: Baris (4)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18071,7 +18032,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -18128,7 +18089,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (5)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -18282,7 +18243,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -18339,7 +18300,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (5)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -18401,7 +18362,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_Name
-      value: atap (1)
+      value: WoodRoof
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_RootOrder
@@ -18480,7 +18441,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -18547,7 +18508,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_Name
-      value: atap (1)
+      value: WoodRoof
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_RootOrder
@@ -18621,7 +18582,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (62)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -18711,7 +18672,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -18840,7 +18801,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -18897,7 +18858,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (42)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -19002,7 +18963,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -19059,7 +19020,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -19126,7 +19087,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (21)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -19246,7 +19207,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1332432539}
   m_Layer: 0
-  m_Name: rumputdetail (5)
+  m_Name: GrassPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19384,7 +19345,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (21)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -19446,7 +19407,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -19503,7 +19464,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -19560,7 +19521,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_Name
-      value: pohon (3)
+      value: Tree
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_RootOrder
@@ -19733,7 +19694,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1369430663}
   m_Layer: 0
-  m_Name: pohon-pohon
+  m_Name: Trees
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19755,8 +19716,12 @@ Transform:
   - {fileID: 1328309149}
   - {fileID: 2075532766}
   - {fileID: 59027595}
+  - {fileID: 703665019}
+  - {fileID: 2018475372}
+  - {fileID: 1973672716}
+  - {fileID: 2134209761}
   m_Father: {fileID: 1799778423}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1369884827 stripped
 Transform:
@@ -19772,7 +19737,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (8)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -19829,7 +19794,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (28)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -19902,7 +19867,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (46)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -19993,7 +19958,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (54)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -20161,7 +20126,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1393228616}
   - component: {fileID: 1393228615}
-  - component: {fileID: 1393228614}
   m_Layer: 0
   m_Name: Sun
   m_TagString: Untagged
@@ -20169,18 +20133,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1393228614
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1393228613}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3acbe04cfd77b254c9b480604527f725, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!108 &1393228615
 Light:
   m_ObjectHideFlags: 0
@@ -20271,7 +20223,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -20343,7 +20295,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -20400,7 +20352,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (5)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -20461,7 +20413,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -20523,7 +20475,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -20586,15 +20538,15 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 1799778423}
+    m_TransformParent: {fileID: 1369430663}
     m_Modifications:
     - target: {fileID: 100002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_Name
-      value: pohon (2)
+      value: Tree
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalScale.x
@@ -20610,15 +20562,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.9422531
+      value: 0.6614151
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.2665615
+      value: -19.97832
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 8.51153
+      value: 58.239998
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -20655,7 +20607,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (29)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -20863,7 +20815,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (8)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -20920,7 +20872,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -20977,7 +20929,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (6)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -21034,7 +20986,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (52)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -21119,7 +21071,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -21181,7 +21133,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -21238,7 +21190,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -21295,7 +21247,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (8)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -21352,7 +21304,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_Name
-      value: atap (1)
+      value: WoodRoof
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_RootOrder
@@ -21421,7 +21373,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (3)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -21478,7 +21430,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (17)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -21617,7 +21569,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_Name
-      value: pohon (2)
+      value: Tree
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_RootOrder
@@ -21764,7 +21716,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -21821,7 +21773,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (15)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -21878,7 +21830,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -21945,7 +21897,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -22012,7 +21964,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (14)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -22224,7 +22176,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (7)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -22281,7 +22233,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (21)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -22338,7 +22290,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (53)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -22423,7 +22375,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (4)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -22493,7 +22445,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -22550,7 +22502,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (10)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -22607,7 +22559,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (17)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -22664,7 +22616,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -22786,7 +22738,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -22843,7 +22795,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (6)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -22906,19 +22858,19 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 1799778423}
+    m_TransformParent: {fileID: 1369430663}
     m_Modifications:
     - target: {fileID: 100002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_Name
-      value: pohon (4)
+      value: Tree
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_RootOrder
-      value: 20
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.15102887
+      value: 0.15102886
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalScale.y
@@ -22930,15 +22882,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.477747
+      value: 5.081415
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.02816
+      value: -20.739918
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 32.09153
+      value: 81.81999
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -22980,7 +22932,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (23)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -23053,7 +23005,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (10)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -23135,7 +23087,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_Name
-      value: jalanpapan (5)
+      value: PlankRoad
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_RootOrder
@@ -23196,7 +23148,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -23336,7 +23288,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1599625210}
   m_Layer: 0
-  m_Name: Baris (8)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23533,7 +23485,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -23620,7 +23572,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_Name
-      value: kandang (3)
+      value: WoodHouse
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23709,7 +23661,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_Name
-      value: atap (1)
+      value: WoodRoof
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_RootOrder
@@ -23778,7 +23730,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (6)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -23845,7 +23797,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (48)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -24018,7 +23970,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -24075,7 +24027,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -24132,7 +24084,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (4)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -24193,7 +24145,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (4)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -24299,7 +24251,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -24361,7 +24313,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -24428,7 +24380,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (5)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -24489,7 +24441,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (10)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -24534,7 +24486,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -24596,7 +24548,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -24718,7 +24670,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (8)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -24840,7 +24792,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (10)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -25071,7 +25023,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (17)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -25116,7 +25068,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_Name
-      value: kandang (6)
+      value: WoodHouse
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25205,7 +25157,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (15)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -25267,7 +25219,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -25419,7 +25371,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_Name
-      value: pohon (1)
+      value: Tree
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_RootOrder
@@ -25494,7 +25446,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (21)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -25556,7 +25508,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (11)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -25613,7 +25565,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (17)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -25670,7 +25622,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (15)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -25737,7 +25689,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -25804,7 +25756,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -25861,7 +25813,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (2)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -25987,7 +25939,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -26044,7 +25996,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (14)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -26116,7 +26068,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (2)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -26217,11 +26169,7 @@ Transform:
   - {fileID: 140029610}
   - {fileID: 1818696272}
   - {fileID: 136272504}
-  - {fileID: 2134209761}
   - {fileID: 1369430663}
-  - {fileID: 703665019}
-  - {fileID: 2018475372}
-  - {fileID: 1973672716}
   - {fileID: 740553111}
   m_Father: {fileID: 0}
   m_RootOrder: 9
@@ -26250,7 +26198,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -26307,7 +26255,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (11)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -26364,7 +26312,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (26)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -26524,7 +26472,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (21)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -26581,7 +26529,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -26658,7 +26606,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (1)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -26708,7 +26656,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_Name
-      value: jalanpapan (7)
+      value: PlankRoad
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_RootOrder
@@ -26770,7 +26718,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1863411028}
   m_Layer: 0
-  m_Name: Baris (5)
+  m_Name: BlockPatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26810,7 +26758,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (5)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -26939,7 +26887,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_Name
-      value: kandang (7)
+      value: WoodHouse
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c6af1065d3e10ce4d896846fa60e43d8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27136,7 +27084,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (13)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -27198,7 +27146,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (18)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -27279,7 +27227,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (11)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -27336,7 +27284,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (32)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -27417,7 +27365,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -27535,7 +27483,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: daeabba6e7f642b4e92097ce48b232c5, type: 3}
       propertyPath: m_Name
-      value: tapak6 sungai (5)
+      value: River1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: daeabba6e7f642b4e92097ce48b232c5, type: 3}
       propertyPath: m_RootOrder
@@ -27612,7 +27560,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (20)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -27679,7 +27627,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (4)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -27740,7 +27688,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -27797,7 +27745,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (5)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -27854,7 +27802,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (4)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -27911,7 +27859,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (38)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -27992,7 +27940,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (15)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -28049,7 +27997,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (56)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -28139,7 +28087,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (8)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -28201,7 +28149,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (8)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -28258,7 +28206,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_Name
-      value: pohon (4)
+      value: Tree
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_RootOrder
@@ -28323,7 +28271,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_Name
-      value: jalanpapan (4)
+      value: PlankRoad
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 4faefd14fc99d6f449480ac466a553af, type: 3}
       propertyPath: m_RootOrder
@@ -28384,7 +28332,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (18)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -28446,7 +28394,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (16)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -28585,7 +28533,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (7)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -28729,7 +28677,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (10)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -28806,7 +28754,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -28980,7 +28928,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -29037,7 +28985,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (19)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -29114,7 +29062,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (2)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -29181,7 +29129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (3)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -29238,7 +29186,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (21)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -29321,7 +29269,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_Name
-      value: atap (1)
+      value: WoodRoof
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5bb48c7737cc2cd41bac713ca3200036, type: 3}
       propertyPath: m_RootOrder
@@ -29400,7 +29348,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (4)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -29481,7 +29429,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (61)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
@@ -29745,7 +29693,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (12)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -29973,7 +29921,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1968333009470060, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_Name
-      value: Tapak (11)
+      value: GrassBlock
       objectReference: {fileID: 0}
     - target: {fileID: 4128274347803834, guid: 2a13c9c9dc108954e913d8d54e3628f7, type: 3}
       propertyPath: m_RootOrder
@@ -30035,7 +29983,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_Name
-      value: rumput (2)
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dec83d53487602845b6537e6bfc45ae4, type: 3}
       propertyPath: m_RootOrder
@@ -30184,7 +30132,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 1799778423}
+    m_TransformParent: {fileID: 1369430663}
     m_Modifications:
     - target: {fileID: 400000, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.y
@@ -30192,7 +30140,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalScale.x
@@ -30208,15 +30156,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -28.842255
+      value: -27.238586
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.106518
+      value: -22.818275
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -6.0884705
+      value: 43.639996
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: dfb82768e616a1844afcc0bb6348d0b5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -30254,7 +30202,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_Name
-      value: tapak4 jalan (15)
+      value: StoneRoad
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 6dab807aee0a1ce488d83be432b7c542, type: 3}
       propertyPath: m_IsActive
