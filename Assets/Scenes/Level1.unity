@@ -7637,7 +7637,7 @@ GameObject:
   - component: {fileID: 480476287}
   - component: {fileID: 480476290}
   m_Layer: 5
-  m_Name: LiveUIGameObject
+  m_Name: LifeText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9861,7 +9861,7 @@ GameObject:
   - component: {fileID: 668859757}
   - component: {fileID: 668859756}
   m_Layer: 5
-  m_Name: lifelogo
+  m_Name: LifeImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

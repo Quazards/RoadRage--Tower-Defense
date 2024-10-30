@@ -27,11 +27,11 @@ public class Bullet : MonoBehaviour
         Vector3 bulletDirection = target.position - transform.position;
         float distanceTraversed = bulletSpeed * Time.deltaTime;
 
-        if (bulletDirection.magnitude <= distanceTraversed)
-        {
-            HitTarget();
-            return;
-        }
+        //if (bulletDirection.magnitude <= distanceTraversed)
+        //{
+        //    HitTarget();
+        //    return;
+        //}
 
         transform.Translate(bulletDirection.normalized * distanceTraversed, Space.World);
 
@@ -42,13 +42,14 @@ public class Bullet : MonoBehaviour
         Destroy(gameObject);
     }
 
-    //private void OnTriggerEnter(Collider other)
-    //{
-    //    if (other.CompareTag("Enemy"))
-    //    {
-    //        Destroy(gameObject);
-    //    }
-    //}
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Enemy"))
+        {
+            Destroy(gameObject);
+            return;
+        }
+    }
 
     public void FindTarget(Transform _target)
     {
