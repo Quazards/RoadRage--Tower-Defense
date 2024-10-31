@@ -27,20 +27,10 @@ public class Bullet : MonoBehaviour
         Vector3 bulletDirection = target.position - transform.position;
         float distanceTraversed = bulletSpeed * Time.deltaTime;
 
-        //if (bulletDirection.magnitude <= distanceTraversed)
-        //{
-        //    HitTarget();
-        //    return;
-        //}
-
         transform.Translate(bulletDirection.normalized * distanceTraversed, Space.World);
 
     }
 
-    private void HitTarget()
-    {
-        Destroy(gameObject);
-    }
 
     private void OnTriggerEnter(Collider other)
     {
